@@ -2,7 +2,7 @@
 
 Real webcam + real hand-tracking web experience. Show an open palm to the
 camera; hold the blessing pose for a moment and the screen fills with
-falling petals, golden glow and sparkles.
+falling petals, golden glow and sparkles. 
 
 Everything runs locally in the browser — no backend, no API keys. Hand
 tracking uses Google's MediaPipe HandLandmarker (`@mediapipe/tasks-vision`).
