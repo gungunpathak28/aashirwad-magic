@@ -12,7 +12,7 @@ tracking uses Google's MediaPipe HandLandmarker (`@mediapipe/tasks-vision`).
 ```bash
 npm install
 npm run dev
-```
+``` 
 
 Open the printed local URL, click **Start Camera**, allow permission, and
 raise an open palm toward the screen.
